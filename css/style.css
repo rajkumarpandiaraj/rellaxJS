@@ -1,0 +1,37 @@
+body{
+    background-color: #2d2252;
+    color: #fff;
+}
+*{
+    box-sizing: border-box;
+}
+.one{
+    height: 500px;
+    background: url('../img/bg1.png') no-repeat center / cover;
+}
+.one h1{
+    font-size: 4rem;
+}
+.bg-custom-1{
+    background-color: rgb(243, 201, 14);
+}
+.two{
+    min-height: 600px;
+    background: url('../img/bg2.png') no-repeat center / cover;
+}
+
+.bg-box{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+.bg-box h2{
+    color:  rgb(243, 201, 14);
+}
+.bg-box i{
+    font-size: 3rem;
+    color:  rgb(243, 201, 14);
+
+}
+hr{
+    border-top: 2px solid #f8f8f8;
+}
